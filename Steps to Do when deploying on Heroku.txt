@@ -1,0 +1,7 @@
+1) Train our Model
+2) Create Web App using Flask
+3) Commit the code in GitHub
+4) Create an account in Heroku
+5) Link the GitHub to Heroku
+6) Deply the model
+7) Web App is ready
